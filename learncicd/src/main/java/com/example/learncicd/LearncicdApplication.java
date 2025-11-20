@@ -10,7 +10,7 @@ public class LearncicdApplication {
 		SpringApplication.run(LearncicdApplication.class, args);
 		System.out.println("Hey I am here");
 		System.out.println("Hey I m again");
-		System.out.println("getting proficient");
+		
 		
 	}
 
