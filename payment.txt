@@ -1,1 +1,2 @@
 Payment feature added
+new payment method added
