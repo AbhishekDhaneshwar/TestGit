@@ -1,1 +1,1 @@
-Learning Git with ChatGPT
+Learning Git with ChatGPT now
