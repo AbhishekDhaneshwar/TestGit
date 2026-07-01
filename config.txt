@@ -1,1 +1,1 @@
-Database=MySQL
+Database=PostgreSQL
