@@ -1,1 +1,1 @@
-Database=GCP
+Database=Azure
